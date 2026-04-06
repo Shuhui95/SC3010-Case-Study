@@ -1,0 +1,3 @@
+[submodule "case2"]
+	path = case2
+	url = https://github.com/AIPEAC/SC3010-Computer-Security
